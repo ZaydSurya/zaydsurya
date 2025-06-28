@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 I love turning ideas into reality through coding <br>🚀 I'm always excited to learn, experiment, and grow as a developer. <br>🎯 Goals :<br>As an aspiring Fullstack Developer, my mission is to master both frontend and backend technologies to build fast, responsive, and scalable applications.</p>
+<p align="left">💻 I love turning ideas into reality through coding <br>🚀 I'm always excited to learn, experiment, and grow as a developer. <br>🎯 As an aspiring Fullstack Developer, my mission is to master both frontend and backend technologies to build fast, responsive, and scalable applications.</p>
 
 ###
 
